@@ -1,6 +1,6 @@
 # Kaden Range
 
-Computer Science student at Auburn University (3.84 GPA) focused on machine learning, AI systems, and scalable experimentation.
+Computer Science student at Auburn University (3.84 GPA) focused on machine learning and AI systems.
 
 ## What I Work On
 
